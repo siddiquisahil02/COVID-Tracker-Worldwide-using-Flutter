@@ -23,6 +23,18 @@ samples, guidance on mobile development, and a full API reference.
 
 # APIs Used
 
+In this application, data parsing is done from these APIs.
+
 - [For Whole World](https://disease.sh/v2/all)
-- [For Differnt Countries](https://corona.lmao.ninja/v2/countries?yesterday&sort)
+- [For Different Countries](https://corona.lmao.ninja/v2/countries?yesterday&sort)
 - [For India](https://api.covid19india.org/v2/state_district_wise.json)
+
+# Packages Used
+
+These are the packages that are added to this flutter project from [pub.dev](https://pub.dev/)
+
+- [http 0.12.1](https://pub.dev/packages/http) for parsing the data from the APIs
+- [intl 0.16.1](https://pub.dev/packages/intl) for beautifying the integer data to show with commas 
+- [url_launcher 5.4.10](https://pub.dev/packages/url_launcher) for launching the W.H.O wesite for **Myth Busters** and **Travel Precautions**
+- [material_design_icons_flutter 4.0.5345](https://pub.dev/packages/material_design_icons_flutter) for adding material icons that flutter doesn't provide with there default *Icons* pack
+- [flutter_linkify 3.1.3](https://pub.dev/packages/flutter_linkify) for showing clickable website links in the application
