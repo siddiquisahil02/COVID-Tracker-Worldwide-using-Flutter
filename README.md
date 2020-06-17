@@ -1,19 +1,6 @@
-# covid19counter
+# COVID-19 Case Counter
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This flutter application shows number of **Confirmed**, ** Active**, **Recovered** & **Deceased** cases for all countries with the number of new cases Appeared, Recovered & Deceased. It shows **District-Wise** data exclusively for *INDIA*. It also have a FAQ section and options like **Myth Busters** and **Travel Precautions** which directs the user to W.H.O website for there respective information.
 
 # Screenshots
 
@@ -38,3 +25,16 @@ These are the packages that are added to this flutter project from [pub.dev](htt
 - [url_launcher 5.4.10](https://pub.dev/packages/url_launcher) for launching the W.H.O wesite for **Myth Busters** and **Travel Precautions**
 - [material_design_icons_flutter 4.0.5345](https://pub.dev/packages/material_design_icons_flutter) for adding material icons that flutter doesn't provide with there default *Icons* pack
 - [flutter_linkify 3.1.3](https://pub.dev/packages/flutter_linkify) for showing clickable website links in the application
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
