@@ -1,6 +1,6 @@
 # COVID-19 Case Counter
 
-This flutter application shows number of **Confirmed**, ** Active**, **Recovered** & **Deceased** cases for all countries with the number of new cases Appeared, Recovered & Deceased. It shows **District-Wise** data exclusively for *INDIA*. It also have a FAQ section and options like **Myth Busters** and **Travel Precautions** which directs the user to W.H.O website for there respective information.
+This flutter application shows number of **Confirmed**, **Active**, **Recovered** & **Deceased** cases for all countries with the number of new cases Appeared, Recovered & Deceased. It shows **District-Wise** data exclusively for *INDIA*. It also have a FAQ section and options like **Myth Busters** and **Travel Precautions** which directs the user to W.H.O website for there respective information.
 
 # Screenshots
 
