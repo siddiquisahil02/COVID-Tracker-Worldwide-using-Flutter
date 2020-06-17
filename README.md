@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 #Screenshots
 
-<img src="https://raw.githubusercontent.com/siddiquisahil02/COVID-Tracker-Worldwide-using-Flutter/master/src/main_screen"  height = "400" >
+<img src="https://raw.githubusercontent.com/siddiquisahil02/COVID-Tracker-Worldwide-using-Flutter/master/src/main_screen.png"  height = "400" >
